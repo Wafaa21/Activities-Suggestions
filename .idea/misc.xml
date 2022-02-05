@@ -3,6 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Wafa/AndroidStudioProjects/ActivitySuggestions/app/src/main/res/drawable/halfcircle.xml" value="0.11574074074074074" />
+        <entry key="..\:/Users/Wafa/AndroidStudioProjects/ActivitySuggestions/app/src/main/res/drawable/ic_launcher_background.xml" value="0.11574074074074074" />
+        <entry key="..\:/Users/Wafa/AndroidStudioProjects/ActivitySuggestions/app/src/main/res/layout/activity_main.xml" value="0.16666666666666666" />
         <entry key="..\:/Users/Wafa/AndroidStudioProjects/Suggestions1/app/src/main/res/drawable/left_button.xml" value="0.10925925925925926" />
         <entry key="..\:/Users/Wafa/AndroidStudioProjects/Suggestions1/app/src/main/res/layout/activity_main.xml" value="0.14628623188405798" />
       </map>

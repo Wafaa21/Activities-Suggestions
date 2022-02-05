@@ -64,8 +64,6 @@ public class MainActivity extends AppCompatActivity {
             Toast.makeText(this, "لا يوجد أنشظة أخرى ", Toast.LENGTH_LONG).show();
         }
     }
-
-
     @Override
     protected void onSaveInstanceState(@NonNull Bundle outState) {
         super.onSaveInstanceState(outState);
@@ -84,4 +82,7 @@ public class MainActivity extends AppCompatActivity {
 
         }
     }
+
+
+
 }
